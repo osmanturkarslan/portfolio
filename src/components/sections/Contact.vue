@@ -133,10 +133,10 @@ message: message.value
 }
 
 emailjs.send(
-"YOUR_SERVICE_ID",
-"YOUR_TEMPLATE_ID",
+"service_g7xbids",
+"template_gku9fkm",
 templateParams,
-"YOUR_PUBLIC_KEY"
+"SD0IsSH4ZWWdKB1on"
 )
 .then(() => {
 
