@@ -5,6 +5,7 @@ import ScrollIndicator from './components/layout/ScrollIndicator.vue'
 import About from './components/sections/About.vue'
 import Contact from './components/sections/Contact.vue'
 import EducationCredentials from './components/sections/Education&Credentials.vue'
+import Footer from './components/layout/Footer.vue'
 </script>
 
 <template>
@@ -21,4 +22,7 @@ import EducationCredentials from './components/sections/Education&Credentials.vu
 
   <!-- Scroll Indicator -->
   <ScrollIndicator />
+
+  <!-- Footer -->
+  <Footer />
 </template>
