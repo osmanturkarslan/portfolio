@@ -4,11 +4,9 @@
 
       <!-- HEADER -->
       <div class="text-center mb-20">
-        <h2 class="text-3xl font-bold mb-4 drop-shadow-md">My Educations</h2>
-        <p class="max-w-2xl mx-auto font-medium leading-relaxed">
-          When I was in Turkey, I was working as an English Teacher. 
-          After I fled to Greece, I decided to change my profession. 
-          And the new story began.
+        <h2 class="text-4xl md:text-5xl font-bold mb-6 text-center">Education</h2>
+        <p class="max-w-5xl mx-auto font-medium leading-relaxed">
+          I began my professional career as an English teacher in Turkey. After relocating to Europe, I decided to pursue a new path in technology, which led me to the world of software development.
         </p>
       </div>
 

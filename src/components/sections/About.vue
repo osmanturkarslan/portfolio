@@ -1,12 +1,32 @@
 <template>
-    <h2 class="text-4xl md:text-5xl font-bold mb-6 text-center">
-      About Me
+  <section class="py-20 px-6">
+
+    <h2 class="text-4xl md:text-5xl font-bold text-center mb-12">
+      About
     </h2>
-<p class="text-lg text-gray-300 max-w-xl mx-auto">
-        Hello, I am Osman Turkarslan. Former English teacher, now Full-Stack Java Developer. Experienced in frontend and backend projects. Educated more than 500 hours in IT area. Ready to learn and open minded. Good at as a team player with individual and management. The important thing is working ethic and to be honest and reliable. Able to solve problems and think creatively. The main goal is being a professional in IT area. 
-        </p>
+
+    <div class="max-w-4xl mx-auto text-gray-300 space-y-6 leading-relaxed">
+
+      <p class="text-xl text-gray-200">
+        Former English teacher, now a Full-Stack Java Developer with experience in both frontend and backend development. I have completed more than 1700 hours of IT training, focusing on modern software technologies and practical project development.
+      </p>
+
+      <p>
+        I am a motivated learner who enjoys solving problems and building efficient digital solutions. I work well both independently and as part of a team, and I also have basic experience in project coordination.
+      </p>
+
+      <p>
+        Strong work ethic, honesty, and reliability are core values that guide my professional life. My goal is to continuously grow and become a highly skilled professional in the IT field.
+      </p>
+
+      <p>
+        I am eager to contribute to innovative projects and collaborate with talented teams to create impactful digital solutions.
+      </p>
+
+    </div>
+
+  </section>
 </template>
 
 <script setup>
-
 </script>
