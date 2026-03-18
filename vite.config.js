@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/portfolio/', // GitHub Pages için repository adını yazın
   plugins: [vue()],
   resolve: {
     alias: {
