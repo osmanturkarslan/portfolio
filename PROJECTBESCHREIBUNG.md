@@ -9,8 +9,7 @@
 - Telefon: 078 246 33 56
 - LinkedIn: https://linkedin.com/in/osman-turkarslan
 - GitHub: https://github.com/osman-turkarslan
-- Portfolio: (Diese App)
-- Website: (Stakeholder-URL, falls vorhanden)
+- Website: https://osmanturkarslan.github.io/portfolio
 
 ## 3. Key Visual / Hero Image / Titelbild
 - Aktuelles Hero-Segment als SpaceScene-3D-Background (`src/components/layout/SpaceScene.vue`)
