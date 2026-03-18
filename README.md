@@ -74,6 +74,7 @@ npm run preview
 - Email: osmanturkarslan1620@gmail.com
 - LinkedIn: https://linkedin.com/in/osman-turkarslan
 - GitHub: https://github.com/osman-turkarslan
+- Live URL: https://osmanturkarslan.github.io/portfolio
 
 ## Documentation
 For full project documentation, requirements, setup and structure details, visit [PROJECTBESCHREIBUNG.md](./PROJECTBESCHREIBUNG.md).

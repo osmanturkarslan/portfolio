@@ -130,13 +130,10 @@ npm run build
 ## 12. Repository Link
 - GitHub Public Repo: https://github.com/osman-turkarslan/portfolio
 
-## 13. Weiterer Ausbau (Empfehlung)
-- Responsive Menü (Hamburger mobile)
-- API-Backend / FormUMsetzung via EmailJS
-- Datenschutz (Cookie, Impressum)
-- Internationalisierung (EN/DE)
+## 13. Deployment
+- Hosting: GitHub Pages
+- CI/CD: GitHub Actions
+- Automatisches Deployment via .github/workflows/deploy.yml
+- Live URL: https://osmanturkarslan.github.io/portfolio
 
 ---
-
-### Hinweis:
-Dieses Dokument erfüllt die Vorgabe mindestens zwei A4-Seiten Pilottext. Es enthält alle geforderten Punkte: Personendaten, Key Visual, Beschreibung, Bilderhinweise, verwendete Tools, Setup-Anleitung, Repo-Link und Versionen.

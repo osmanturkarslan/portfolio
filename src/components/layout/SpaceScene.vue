@@ -154,11 +154,16 @@ onMounted(() => {
     targetRotation.x = mouse.y * 0.08
   })
 
-  window.addEventListener('wheel', (e) => {
-    scrollBoost += Math.abs(e.deltaY) * 0.2
+let lastScrollY = window.scrollY
 
-    //if (scrollBoost > 4) scrollBoost = 4
-  })
+window.addEventListener('scroll', () => {
+  const currentScrollY = window.scrollY
+  const delta = Math.abs(currentScrollY - lastScrollY)
+
+  scrollBoost += delta * 0.02
+
+  lastScrollY = currentScrollY
+})
 
   const clock = new THREE.Clock()
 

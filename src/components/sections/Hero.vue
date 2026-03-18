@@ -31,9 +31,9 @@ const hero = ref(null)
 onMounted(() => {
   gsap.from(hero.value.children, {
     opacity: 0,
-    y: 20,
-    duration: 0.8,
-    stagger: 0.15,
+    y: 60,
+    duration: 6,
+    stagger: 0.65,
     ease: 'power2.out'
   })
 })
